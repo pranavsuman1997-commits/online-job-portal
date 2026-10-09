@@ -76,7 +76,7 @@ The application was tested locally to verify that the graphical interface opens,
                     2. Dhruv Golay (Member)
                     3. Sundram Kumar(Mmeber)
                     4. Dinesh Yadav (Member)
-- **GitHub Repository:** https://github.com/pranavsuman1997-commits/online-job-portal)
+- **GitHub Repository:** https://github.com/pranavsuman1997-commits/online-job-portal
 
 ## Conclusion
 The Online Job Portal project demonstrates the use of Java Swing, JDBC, and MySQL to build a basic desktop application for viewing job opportunities and applying for jobs. It provides practical experience in Java application development and database integration.
